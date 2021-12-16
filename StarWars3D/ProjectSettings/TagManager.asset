@@ -6,6 +6,7 @@ TagManager:
   tags:
   - aAmmo
   - Fire
+  - bot
   layers:
   - Default
   - TransparentFX
