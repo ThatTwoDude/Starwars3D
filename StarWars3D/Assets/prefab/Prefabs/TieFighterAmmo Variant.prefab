@@ -9,7 +9,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1033026374199576, guid: 5c16c201ada1f4a43965ab102abb63a9, type: 3}
       propertyPath: m_Name
-      value: TieFighterAmmo
+      value: TieFighterAmmo Variant
       objectReference: {fileID: 0}
     - target: {fileID: 4657959899363720, guid: 5c16c201ada1f4a43965ab102abb63a9, type: 3}
       propertyPath: m_RootOrder
@@ -54,6 +54,10 @@ PrefabInstance:
     - target: {fileID: 4657959899363720, guid: 5c16c201ada1f4a43965ab102abb63a9, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114858159621136824, guid: 5c16c201ada1f4a43965ab102abb63a9, type: 3}
+      propertyPath: speed
+      value: 2000
       objectReference: {fileID: 0}
     - target: {fileID: 199012000779208288, guid: 5c16c201ada1f4a43965ab102abb63a9, type: 3}
       propertyPath: m_Materials.Array.size
